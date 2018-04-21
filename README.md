@@ -10,6 +10,13 @@ These instructions will get you a copy of the project up and running on your loc
 
 ``` The API is under construction, you should not use this directory currently !```
 
+## To-do
+
+1. Strengthen unit tests
+2. Develop server API
+3. Write API unit test
+4. Host a demo
+
 ## Contributing
 
 Please read [CONTRIBUTING.md](https://gist.github.com/jonathangiamp/64db04e6b25cbd2268dd57eef918a1d5) for details on our code of conduct, and the process for submitting pull requests to us.
