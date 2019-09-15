@@ -8,7 +8,7 @@ These instructions will get you a copy of the project up and running on your loc
 
 ## API
 
-``` The API is under construction, you should not use this directory currently !```
+> WIP
 
 ## To-do
 
